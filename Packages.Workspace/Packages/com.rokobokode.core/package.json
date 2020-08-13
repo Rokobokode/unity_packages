@@ -1,0 +1,7 @@
+{
+  "name": "com.rokobokode.core",
+  "version": "0.1.0",
+  "displayName": "Core",
+  "description": "The core functionality",
+  "unity": "2020.1"
+}
