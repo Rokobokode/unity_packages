@@ -3,8 +3,24 @@
   <component name="ContentModelStore">
     <e p="C:\Users\AYakovenko\.Rider2019.3\system\extResources" t="IncludeRecursive" />
     <e p="C:\Users\AYakovenko\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_Packages.Workspace.184849725.00" t="ExcludeRecursive" />
-    <e p="C:\Work\packages\egs\photon\unity_packages\Packages.Workspace" t="IncludeFlat">
+    <e p="C:\Work\packages\egs\photon\unity_packages\Packages.Workspace" t="IncludeRecursive">
+      <e p="Core.csproj" t="IncludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive">
+        <e p="com.rokobokode.core" t="Include">
+          <e p="Source" t="Include">
+            <e p="Core.asmdef" t="Include" />
+            <e p="Rokobokode" t="Include">
+              <e p="Core" t="Include">
+                <e p="Greeter.cs" t="Include" />
+                <e p="ILogger.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+        </e>
+      </e>
       <e p="Packages.Workspace.sln" t="IncludeFlat" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
     </e>
   </component>
 </project>
